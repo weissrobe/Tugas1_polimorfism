@@ -1,0 +1,7 @@
+C:\Users\akbar\source\repos\Tugas1_polimorfism\Tugas1_polimorfism\bin\Debug\Tugas1_polimorfism.exe.config
+C:\Users\akbar\source\repos\Tugas1_polimorfism\Tugas1_polimorfism\bin\Debug\Tugas1_polimorfism.exe
+C:\Users\akbar\source\repos\Tugas1_polimorfism\Tugas1_polimorfism\bin\Debug\Tugas1_polimorfism.pdb
+C:\Users\akbar\source\repos\Tugas1_polimorfism\Tugas1_polimorfism\obj\Debug\Tugas1_polimorfism.csprojAssemblyReference.cache
+C:\Users\akbar\source\repos\Tugas1_polimorfism\Tugas1_polimorfism\obj\Debug\Tugas1_polimorfism.csproj.CoreCompileInputs.cache
+C:\Users\akbar\source\repos\Tugas1_polimorfism\Tugas1_polimorfism\obj\Debug\Tugas1_polimorfism.exe
+C:\Users\akbar\source\repos\Tugas1_polimorfism\Tugas1_polimorfism\obj\Debug\Tugas1_polimorfism.pdb
